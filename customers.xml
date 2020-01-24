@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCustomerDetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CustomerDetails>
+    <FirstName>s</FirstName>
+    <LastName>s</LastName>
+    <Email>s</Email>
+    <Password>s</Password>
+    <Address>s</Address>
+    <Orders>
+      <OrderDetails>
+        <CustId>637153848520908247</CustId>
+        <Pizzas>
+          <PizzaDetails>
+            <Crust>Thick</Crust>
+            <Size>Large</Size>
+            <Topping>Pepperoni</Topping>
+          </PizzaDetails>
+        </Pizzas>
+        <OrderDate>2020-01-23T14:01:30.7516785-06:00</OrderDate>
+      </OrderDetails>
+    </Orders>
+  </CustomerDetails>
+  <CustomerDetails>
+    <FirstName>Steven</FirstName>
+    <LastName>Alvarez</LastName>
+    <Email>steven.alvarez.a@gmail.com</Email>
+    <Password>7143</Password>
+    <Address>Arlington, TX</Address>
+    <Orders>
+      <OrderDetails>
+        <CustId>637152109041423841</CustId>
+        <Pizzas>
+          <PizzaDetails>
+            <Crust>Thick</Crust>
+            <Size>Large</Size>
+            <Topping>Pepperoni</Topping>
+          </PizzaDetails>
+        </Pizzas>
+        <OrderDate>2020-01-21T13:41:55.5409596-06:00</OrderDate>
+      </OrderDetails>
+    </Orders>
+  </CustomerDetails>
+  <CustomerDetails>
+    <FirstName>bob</FirstName>
+    <LastName>builder</LastName>
+    <Email>bobthebuilder@pizzabox.com</Email>
+    <Password>1234</Password>
+    <Address>Arlington, TX</Address>
+    <Orders />
+  </CustomerDetails>
+  <CustomerDetails>
+    <FirstName>Bob</FirstName>
+    <LastName>Builder</LastName>
+    <Email>Bobdabuilder@pizzabox.com</Email>
+    <Password>1234</Password>
+    <Address>Arlington, TX</Address>
+    <Orders />
+  </CustomerDetails>
+  <CustomerDetails>
+    <FirstName>Bob</FirstName>
+    <LastName>Builder</LastName>
+    <Email>BB@pizzabox.com</Email>
+    <Password>1234</Password>
+    <Address>arlington, tx</Address>
+    <Orders />
+  </CustomerDetails>
+  <CustomerDetails>
+    <FirstName>bob</FirstName>
+    <LastName>builder</LastName>
+    <Email>bobbuilder@pizza.com</Email>
+    <Password>1234</Password>
+    <Address>arlington, tx</Address>
+    <Orders />
+  </CustomerDetails>
+  <CustomerDetails>
+    <FirstName>bob</FirstName>
+    <LastName>builder</LastName>
+    <Email>bb@pizzabox.com</Email>
+    <Password>7143</Password>
+    <Address>the moon</Address>
+    <Orders />
+  </CustomerDetails>
+  <CustomerDetails>
+    <FirstName>bob</FirstName>
+    <LastName>builder</LastName>
+    <Email>bb@pizzabox.com</Email>
+    <Password>123</Password>
+    <Address>the moon</Address>
+    <Orders />
+  </CustomerDetails>
+  <CustomerDetails>
+    <FirstName>a</FirstName>
+    <LastName>a</LastName>
+    <Email>a</Email>
+    <Password>a</Password>
+    <Address>a</Address>
+    <Orders>
+      <OrderDetails>
+        <CustId>0</CustId>
+        <Pizzas>
+          <PizzaDetails>
+            <Crust>Thick</Crust>
+            <Size>Large</Size>
+            <Topping>Pepperoni</Topping>
+          </PizzaDetails>
+        </Pizzas>
+        <OrderDate>2020-01-24T02:39:03.0733835-06:00</OrderDate>
+      </OrderDetails>
+    </Orders>
+  </CustomerDetails>
+  <CustomerDetails>
+    <FirstName>d</FirstName>
+    <LastName>d</LastName>
+    <Email>d</Email>
+    <Password>d</Password>
+    <Address>d</Address>
+    <Orders>
+      <OrderDetails>
+        <CustId>637154305616675293</CustId>
+        <Pizzas>
+          <PizzaDetails>
+            <Crust>Thick</Crust>
+            <Size>Large</Size>
+            <Topping>Pepperoni</Topping>
+          </PizzaDetails>
+          <PizzaDetails>
+            <Crust>Hand-tossed</Crust>
+            <Size>Large</Size>
+            <Topping>Cheese</Topping>
+          </PizzaDetails>
+          <PizzaDetails>
+            <Crust>Thin</Crust>
+            <Size>Small</Size>
+            <Topping>Buffalo</Topping>
+          </PizzaDetails>
+          <PizzaDetails>
+            <Crust>Thick</Crust>
+            <Size>Large</Size>
+            <Topping>Pepperoni</Topping>
+          </PizzaDetails>
+        </Pizzas>
+        <StoreName>MizzaPizza</StoreName>
+        <OrderDate>2020-01-24T02:43:26.5927059-06:00</OrderDate>
+      </OrderDetails>
+    </Orders>
+  </CustomerDetails>
+  <CustomerDetails>
+    <FirstName>paul</FirstName>
+    <LastName>smith</LastName>
+    <Email>ps@pizzabpx.com</Email>
+    <Password>1234</Password>
+    <Address>the moon</Address>
+    <Orders />
+  </CustomerDetails>
+  <CustomerDetails>
+    <FirstName>Luke</FirstName>
+    <LastName>Skywalker</LastName>
+    <Email>s@pizzabox.com</Email>
+    <Password>123</Password>
+    <Address>galaxy far far away</Address>
+    <Orders>
+      <OrderDetails xsi:nil="true" />
+    </Orders>
+  </CustomerDetails>
+</ArrayOfCustomerDetails>
